@@ -45,6 +45,10 @@ wp-content/plugins/*
 /wp-content/advanced-cache.php
 /wp-content/wp-cache-config.php
 .DS_Store
+.bash_history
+.gitignore
+error_log
+
 # Other files
 yandex*.html
 google*.html
